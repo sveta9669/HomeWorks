@@ -1,9 +1,7 @@
 # Node.js Greetings command-line tool
 
 It accepts  --name or -n, 
-
             --level or -l,
-            
             --greeting or -g
 
 
